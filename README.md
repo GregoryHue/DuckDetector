@@ -1,5 +1,10 @@
 # DuckDetector
+
 Machine learning model that detects if a picture contains a duck or not
+
+<p align="center">
+  <img src="https://pbs.twimg.com/media/Ezpb5YUX0AMzDHA.png?raw=true" alt="Quack Snack Logo"/>
+</p>
 
 ## Project setup
 
