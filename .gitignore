@@ -4,4 +4,8 @@
 
 # environment
 
-env
+env/
+
+# dataset
+
+dataset/
