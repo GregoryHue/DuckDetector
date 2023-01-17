@@ -48,10 +48,12 @@ README.md
 
 ## References
 
-* [Pytorch - DCGAN Tutorial](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)
+* [Install TensorFlow with pip - Windows Native](https://www.tensorflow.org/install/pip#windows-native)
+* [Dst tensor is not initialized #38](https://github.com/aymericdamien/TensorFlow-Examples/issues/38)
+* [Image Recognition Guide](https://www.fritz.ai/image-recognition/)
 * [Animals Detection Images Dataset](https://www.kaggle.com/datasets/antoreepjana/animals-detection-images-dataset)
 * [PyTorch-Tutorial (The Classification)](https://www.kaggle.com/code/basu369victor/pytorch-tutorial-the-classification/notebook)
+* [Pytorch - DCGAN Tutorial](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)
 * [Binary Image Classification in PyTorch](https://towardsdatascience.com/binary-image-classification-in-pytorch-5adf64f8c781)
-* [Image Recognition Guide](https://www.fritz.ai/image-recognition/)
 * [Building an Image Classification Model From Scratch Using PyTorch](https://medium.com/bitgrit-data-science-publication/building-an-image-classification-model-with-pytorch-from-scratch-f10452073212)
-* [Animal Classifier 99% validation accuracy](https://www.kaggle.com/code/dj67rockers/animal-classifier-99-validation-accuracy)
+* [Intel Image Classification (CNN - Keras)](https://www.kaggle.com/code/vincee/intel-image-classification-cnn-keras/notebook)
