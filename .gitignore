@@ -8,4 +8,9 @@ env/
 
 # dataset
 
-dataset/
+dataset/train/**
+dataset/test/**
+
+# shortcut to make it easier with that god-forsaken conda
+
+shortcut.**
